@@ -3,5 +3,5 @@ using namespace std;
 
 int main(){
     cout<<"Welcome to CS 15."<<endl;
-    return 0;
+    return 1;
 }
